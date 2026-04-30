@@ -56,6 +56,7 @@
 	</div>
 </section>
 
+<!-- SECTION 2 - PROJECTS -->
 <section class="relative h-svh text-white" id="projects">
 	<img src="img/stars.jpg" class="absolute object-cover w-full h-full -z-1" alt="rainy nature">
 	<div class="p-8 2xl:px-40 2xl:py-16 grid grid-rows-[min-content] gap-8 h-full">
